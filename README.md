@@ -10,3 +10,13 @@ It monitors the packages as they are uploaded to [npmjs](https://www.npmjs.com/)
 The first thing to check is which one of the packages are hosted on GitHub
 and among them which ones have test and which don't.
 
+
+Some links to explore
+
+* https://www.edoardoscibona.com/exploring-the-npm-registry-api
+* https://registry.npmjs.org/
+* https://registry.npmjs.org/recent
+* https://github.com/npms-io/npms-analyzer
+* https://replicate.npmjs.com/_all_docs
+* https://api.npmjs.org/downloads/range/${requestRange.from}:${requestRange.to}/${encodeURIComponent(name)};
+* https://stackoverflow.com/questions/48251633/list-all-public-packages-in-the-npm-registry
